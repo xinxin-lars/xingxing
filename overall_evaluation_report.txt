@@ -1,0 +1,17 @@
+驾驶员疲劳检测整体评估报告
+============================================================
+平均准确率: 94.20%
+平均误判率: 16.50%
+平均漏检率: 2.98%
+
+各视频详情：
+--001_noglasses_sleepyCombination.avi--
+准确率=90.34%, 误判率=10.00%, 漏检率=9.62%
+--001_nightglasses_sleepyCombination.avi--
+准确率=97.14%, 误判率=16.12%, 漏检率=0.32%
+--001_sunglasses_sleepyCombination.avi--
+准确率=92.05%, 误判率=43.49%, 漏检率=2.31%
+--001_night_noglasses_sleepyCombination.avi--
+准确率=96.92%, 误判率=4.34%, 漏检率=2.66%
+--001_glasses_sleepyCombination.avi--
+准确率=94.54%, 误判率=8.53%, 漏检率=0.00%
